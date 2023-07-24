@@ -1,0 +1,15 @@
+# Python program to find average of nine numbers
+# take inputs
+num1 = 1.4
+num2 = 2.0
+num3 = 2.0
+num4 = 2.2
+num5 = 1.2
+num6 = 1.9
+num7 = 2.1
+num8 = 2.1
+num9 = 2.2
+# calculate average
+avg = (num1 + num2 + num3 + num4 + num5 + num6 + num7 + num8 + num9)
+# display result
+print('The average of numbers = %0.2f' %)
