@@ -10,7 +10,7 @@ from flask_migrate import Migrate, migrate
 import os
 from flask_msearch import Search
 from flask_login import LoginManager, login_manager
-# from werkzeug import secure_filename
+from werkzeug import secure_filename
 # import contextvars
 
 basedir = os.path.abspath(os.path.dirname(__file__))
